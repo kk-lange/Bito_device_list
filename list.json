@@ -1,4 +1,4 @@
 [
-    {"MAC":"AA:BB:CC:DD:EE:FF", "SmartID": "1", "Metadata": "Null"},
-    {"MAC":"11:22:33:44:55:66", "SmartID": "2", "Metadata": "Null"}
+    {"MAC":"AA:BB:CC:DD:EE:FF", "SmartID": "1", "cmnd":["Target", "TargetwoL", "Payload", "SmartID", "StationID", "ATarget?", "AIOMode", "storeSettings"], "Metadata": "Null"},
+    {"MAC":"11:22:33:44:55:66", "SmartID": "2", "cmnd":["Target", "TargetwoL", "Payload", "SmartID", "StationID", "ATarget?", "AIOMode", "storeSettings"], "Metadata": "Null"}
 ]
